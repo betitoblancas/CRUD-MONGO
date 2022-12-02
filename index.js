@@ -10,7 +10,7 @@ app.set("view engine", "pug")
 
 app.use(express.urlencoded({extended: true}))
 app.use(express.json())
-app.use(require("./routes/contactos"))
+app.use(require("./routes/hardwares"))
 
 app.use("/static", express.static("./public"))
 

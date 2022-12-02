@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6387adbec58512a01c76883a"
+  },
+  "nombre": "laptop",
+  "modelo": "ds234",
+  "marca": "hp",
+  "descripcion": "es color negro",
+  "año": "2008",
+  "link": "htttp://gogle",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387b083aa42c50072dbd286"
+  },
+  "nombre": "asdnaj",
+  "modelo": "sdkank",
+  "marca": "zxcb,mas",
+  "descripcion": "sdasdahj",
+  "link": "hakshdkj",
+  "__v": 0
+}]
